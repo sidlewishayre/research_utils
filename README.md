@@ -1,7 +1,8 @@
 This repository is a placeholder for my research utils written in python and STATA. 
 
 The repository consists of over 16,000 lines of code but it is still in the process of being cleared by the Federal Reserve Records Team. 
-These utils are all general functions that can be used for various projects.
+
+These utils are all general functions that can be used for various research projects.
 
 Here is a list of some of the contents:
 
